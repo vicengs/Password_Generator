@@ -15,9 +15,9 @@ function generatePassword(){
   var strRandom="";
   // Function to define lenght
   var fncLenght = function(){
-    var promptLenght = window.prompt("Please type the length of characters of your password a number between 8 and 128.");
+    var promptLenght = prompt("Please type the length of characters of your password a number between 8 and 128.");
     while(promptLenght < 8 || promptLenght > 128 || isNaN(promptLenght)){
-      promptLenght = window.prompt("Remember a number with the length of at least 8 characters and no more than 128 characters.");
+      promptLenght = prompt("Remember a number with the length of at least 8 characters and no more than 128 characters.");
     }
     return promptLenght
   }
@@ -203,26 +203,25 @@ function generatePassword(){
   var pwdLength = fncLenght(); // Get length for password from 8 to 128
   while(!lowerCase && !upperCase && !specialChr && !intNumber || firstTime){
     if(firstTime === false){
-      window.alert("You should choose at least one type for password.");
+      alert("You should choose at least one type for password.");
     }
-    var lowerCase = window.confirm("Do you want to use letters in lower case?");
-    var upperCase = window.confirm("Do you want to use letters in upper case?");
-    var specialChr = window.confirm("Do you want to use special characters?");
-    var intNumber = window.confirm("Do you want to use numbers?");
+    var lowerCase = confirm("Do you want to use letters in lower case?");
+    var upperCase = confirm("Do you want to use letters in upper case?");
+    var specialChr = confirm("Do you want to use special characters?");
+    var intNumber = confirm("Do you want to use numbers?");
     firstTime = false;
   }
   for(i=0; i<pwdLength; i++){
     strPassword = strPassword + fncRandom();
   }
-  alert("Your secure password is: " + strPassword);
   return strPassword;
 }
 // Write password to the #password input
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
+  passwordText.setAttribute("style", "font-size:25px;");
   passwordText.value = password;
 }
-
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
