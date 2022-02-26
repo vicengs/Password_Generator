@@ -39,15 +39,35 @@ https://vicengs.github.io/Password_Generator/
 ```
 ## Screenshoots
 
-![image text](https://github.com/vicengs/VGS_Portfolio/blob/main/assets/images/Screenshot_VGS_1.jpg)
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_0.jpg)
 
-![image text](https://github.com/vicengs/VGS_Portfolio/blob/main/assets/images/Screenshot_VGS_2.jpg)
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_1.jpg)
 
-![image text](https://github.com/vicengs/VGS_Portfolio/blob/main/assets/images/Screenshot_VGS_3.jpg)
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_2.jpg)
 
-![image text](https://github.com/vicengs/VGS_Portfolio/blob/main/assets/images/Screenshot_VGS_4.jpg)
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_3.jpg)
 
-![image text](https://github.com/vicengs/VGS_Portfolio/blob/main/assets/images/Screenshot_VGS_5.jpg)
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_4.jpg)
+
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_5.jpg)
+
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_6.jpg)
+
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_7.jpg)
+
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_8.jpg)
+
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_9.jpg)
+
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_10.jpg)
+
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_11.jpg)
+
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_12.jpg)
+
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_13.jpg)
+
+![image text](https://github.com/vicengs/Password_Generator/blob/main/assets/images/Screenshot_PWD_14.jpg)
 
 
 # 03 JavaScript: Password Generator
