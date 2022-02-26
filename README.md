@@ -1,3 +1,55 @@
+# Password Generator
+
+## Purpose
+An application that generates a random password based on user-selected criteria
+
+## Built with
+* HTML
+* CSS (Advanced)
+* Java Script
+
+## Website
+https://vicengs.github.io/Password_Generator/
+
+## Contribution
+Made by Vicente Garcia Sepulveda
+
+# Description
+
+Application made from a previous HTML and Style to give functionality
+
+* Functionality using functions in JavaScript
+* Randomize by default JavaScript functions
+* Loops to validate and generate each value
+* Performance using variables and functions
+* Comments of the code
+
+# Instructions (Solved)
+## SSH to clone:
+```
+git@github.com:vicengs/Password_Generator.git
+```
+## GitHub repository:
+```
+https://github.com/vicengs/Password_Generator
+```
+## Live URL:
+```
+https://vicengs.github.io/Password_Generator/
+```
+## Screenshoots
+
+![image text](https://github.com/vicengs/VGS_Portfolio/blob/main/assets/images/Screenshot_VGS_1.jpg)
+
+![image text](https://github.com/vicengs/VGS_Portfolio/blob/main/assets/images/Screenshot_VGS_2.jpg)
+
+![image text](https://github.com/vicengs/VGS_Portfolio/blob/main/assets/images/Screenshot_VGS_3.jpg)
+
+![image text](https://github.com/vicengs/VGS_Portfolio/blob/main/assets/images/Screenshot_VGS_4.jpg)
+
+![image text](https://github.com/vicengs/VGS_Portfolio/blob/main/assets/images/Screenshot_VGS_5.jpg)
+
+
 # 03 JavaScript: Password Generator
 
 Create an application that generates a random password based on user-selected criteria. The app runs in the browser and features dynamically updated HTML and CSS powered by your JavaScript code. It has a clean and polished user interface and is responsive, which ensures that it adapts to multiple screen sizes.
